@@ -4,8 +4,6 @@ This folder contains the R web-scraping and data-cleaning scripts, the cleaned E
 
 The workflow extracted 68 programme records from the Eduvos website, cleaned the data, exported it to CSV, and imported it into PostgreSQL for two SQL investigations.
 
-# Question 4 -- ETL Using R and PostgreSQL
-
 ### 4.1 Web Scraping
 Extracted 68 Eduvos academic programmes using R and web scraping. Data quality checks identified 17 missing qualification classifications and 67 truncated descriptions.
 
