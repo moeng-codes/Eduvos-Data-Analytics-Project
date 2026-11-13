@@ -1,4 +1,4 @@
-# Question 4 — ETL Using R and PostgreSQL
+# Question 4 -- ETL Using R and PostgreSQL
 
 This folder contains the R web-scraping and data-cleaning scripts, the cleaned Eduvos programme dataset, and PostgreSQL SQL queries.
 
