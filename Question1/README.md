@@ -1,4 +1,4 @@
-# Question 1 — Data Analytics
+# Question 1 -- Data Analytics
 
 This folder contains the R scripts, datasets and
 supporting documentation for Question 1.
